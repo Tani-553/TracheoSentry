@@ -19,3 +19,4 @@ recordings/*.wav
 # OS files
 .DS_Store
 Thumbs.db
+data/tc_audio/
