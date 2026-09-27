@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment/secrets
+.env
+
+# Trained model files
+model/*.pkl
+
+# Audio recordings
+recordings/*.wav
+
+# OS files
+.DS_Store
+Thumbs.db
